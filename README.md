@@ -1,4 +1,4 @@
-# Kubernetes Kafka Operator with Prometheus and Grafana Monitoring
+# Kubernetes Kafka (Strimzi Operator) with Monitoring (Prometheus and Grafana)
 A sample Kubernetes deployment config for Kafka deploy with Prometheus monitoring and Grafana dashboards
 
 ## Install
